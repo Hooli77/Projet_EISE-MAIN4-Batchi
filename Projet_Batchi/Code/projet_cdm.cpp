@@ -112,11 +112,11 @@ void Joueur::questionsJoueur(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; // chaine temporaire pour stocker des bouts de chaine
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; // On concatene avec la chaine temporaire
                 } else {
                     line_v.push_back(s); 
                     s.clear();
@@ -160,11 +160,11 @@ void Joueur::vrai_faux_questions(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     //line_v.push_back(s); 
                     s.clear();
@@ -229,11 +229,11 @@ void Attaquants::questionsJoueuroffensif(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     line_v.push_back(s); 
                     s.clear();
@@ -298,11 +298,11 @@ void Milieuxoffensif::questionsJoueuroffensif(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     line_v.push_back(s); 
                     s.clear();
@@ -367,11 +367,11 @@ void Milieuxdefensif::questionsJoueurdefensif(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     line_v.push_back(s); 
                     s.clear();
@@ -436,11 +436,11 @@ void Defenseurs::questionsJoueurdefensif(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     line_v.push_back(s); 
                     s.clear();
@@ -505,11 +505,11 @@ void Gardiens::questionsJoueurdefensif(){
             cin >> rep1;
             cout << endl;
 
-            string s; // Temporary string used to split the string.
+            string s; 
             int i = 0;
             while (line2[i] != '\0') {
                 if (line2[i] != char (separator)) {
-                    s += line2[i]; // Append the char to the temp string.
+                    s += line2[i]; 
                 } else {
                     line_v.push_back(s); 
                     s.clear();
