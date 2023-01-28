@@ -1,0 +1,10 @@
+1ère question : Qui est le meilleur buteur de l'equipe nationale ?
+2ème question : Qui est le plus jeune buteur de l'equipe nationale ?
+3ème question : Quel club a le plus grand nombre de titres consécutifs de champion de france ?
+4ème question : Combien de coupe du monde u20 détient le pays choisi ?
+5ème question : Combien de coupe du monde a remporté le pays choisi ?
+6ème question : Quel club dans l'histoire de la ligue1 a remporté le plus grand nombre de victoires consécutives à l'extérieur ?
+7ème question : Quel joueur a marqué le plus de buts en 1 saison en ligue1 ?
+8ème question : Quel joueur a gagné le plus de titre dans le pays choisi ?
+9ème question : Quel club a disputé le plus de saisons consécutives sans reléguation ?
+10ème question : Quel joueur a été entraineur et joueur du meme club dans le championnat du pays choisi ?
