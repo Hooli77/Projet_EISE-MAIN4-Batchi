@@ -651,7 +651,7 @@ int main(){
             d.questionsJoueurdefensif();
             md.questionsJoueurdefensif();
             g.questionsJoueurdefensif();
-            cout << "Votre score est: "<< myCountries_Collection.points << "/10"<< endl << endl;
+            cout << "Votre score est: "<< myCountries_Collection.points << "/15"<< endl << endl;
             cout << "MERCI D'AVOIR JOUÉ  !"<< endl<<endl;
             break;
         }
